@@ -120,7 +120,7 @@ text-decoration: none;
 
 .navbar-nav > li > a {
  padding: 5px 14px 17px;
-  font-size: 1.1em;
+  font-size: 20px;
   font-weight: 400;
   text-align: center;
   text-transform: uppercase;
@@ -184,7 +184,7 @@ color: #202242!important;
   color: #fff;    
 }
 .navbar-nav {
-  margin: 1.5em 1em 1em;
+  margin: 1.5em 16em 1em;
 }
 .navbar {
   border-radius: 0px;
@@ -689,7 +689,7 @@ ul.callbacks_tabs li {
   color:#35ead2;
 }
 .layer h3:nth-child(13){
-  color:#eb5273;
+  color:midnightblue;
 }
 h4.title2-w3ls {
   font-size: 16px;
@@ -751,7 +751,7 @@ h4.title2-w3ls {
 }
 
 h3.title-agile {
-  color: #eb5273;
+  color: midnightblue;
   text-transform: uppercase;
   font-weight: 800;
   font-size: 33px;
@@ -781,7 +781,7 @@ span.about-p {
   text-align: right;
 }
 .about-sub-grid-w3ls h4 ,h5.blog-w3ls{
-  color: #eb5273;
+  color: midnightblue;
   font-size: 24px;
   text-transform: capitalize;
   font-weight: 600;
@@ -819,7 +819,7 @@ p.about-p {
   background:#4ddba6;
 }
 .service-grids:nth-of-type(4) .services-head-w3ls{
-  background:#eb5273;
+  background:midnightblue;
 }
 .services-text {
   padding: 15px;
@@ -853,13 +853,13 @@ p.about-p {
   color:#4ddba6;
 }
 .service-grids:nth-of-type(4) h4 {
-  color:#eb5273;
+  color:midnightblue;
 }
 */
 /*-- //services --*/
 /*-- stats --*/ 
 .stats {
-  background: #eb5273;
+  background: midnightblue;
 }
 h4.title-agile {
   font-weight: 300;
@@ -889,7 +889,7 @@ text-align: left;
   background: #fff;
   border-radius: 10px;
   padding: 10px 20px;
-  color: #eb5273;
+  color: midnightblue;
 }
 .numscroller {
   font-size: 40px;
@@ -1175,12 +1175,12 @@ span.text-blog {
   font-weight: 600;
   padding: 0.5em 0;
   letter-spacing: 1px;
-  border: 1px solid #eb5273;;
-  background: #eb5273;
+  border: 1px solid midnightblue;;
+  background: midnightblue;
 }
 
 .agile_form input[type="submit"]:hover {
-  color: #eb5273;
+  color: midnightblue;
   background: rgb(255, 255, 255);
 }
 /* //contact */
@@ -1326,7 +1326,7 @@ ul.top-links {
   position: absolute;
   bottom: -17%;
   background: #fff;
-  border-top: 3px solid #eb5273;
+  border-top: 3px solid midnightblue;
   width: 80%;
   left: 10%;
   z-index: 9;
@@ -1347,7 +1347,7 @@ transition: .5s all;
 .team .social-w3lsicon {
   padding: 1em;
   margin-top: 0.5em;
-  background: #eb5273;
+  background: midnightblue;
   -webkit-transition: .5s all;
   -moz-transition: .5s all;
   transition: .5s all;
@@ -1395,7 +1395,7 @@ div#testimonials {
 }
 .feedback-top{
 	padding:1em 1.5em;
-    background:#eb5273;
+    background:midnightblue;
     position: relative;
     border-radius:5px;
 }
@@ -1409,7 +1409,7 @@ div#testimonials {
   left: 27%;
   width: 0;
   height: 0;
-  border-top: 9px solid #eb5273;
+  border-top: 9px solid midnightblue;
   border-right: 9px solid transparent;
   border-left: 9px solid transparent;
 }
@@ -1706,7 +1706,7 @@ div#team {
      margin-right:40px;
    }
   .navbar-default .navbar-toggle .icon-bar {
-      background-color: #eb5273;
+      background-color: midnightblue;
   }
   .navbar-nav{
       margin: 0;
