@@ -136,7 +136,9 @@ text-decoration: none;
 	font-weight:bold;
 	font-size:22px;
 	font-family:Georgia, serif;
+	color: #5f9ea0;
 }
+
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
   color: #ffe13e!important;
   background-color: transparent;
@@ -224,11 +226,11 @@ border: 2px solid #f53753;
 border: 2px solid #fff;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #0041C2;
+  color: #5f9ea0;
    background: none!important;
 }
 .navbar-default .navbar-nav > li > a.active{
-  color:#0041C2;
+  color:#5f9ea0;
 }
 .navbar-nav > li > a:hover{
 	font-size:18px;
@@ -819,24 +821,25 @@ p.about-p {
 .services-head-w3ls {
   padding: 40px 0;
   text-align: center;
+  background-color:#222;
 }
 .service-grids:nth-of-type(1) .services-head-w3ls{
-  background:#00b9ef;
 }
 .service-grids:nth-of-type(2) .services-head-w3ls{
-  background:#0041C2;
+ 
 }
 .service-grids:nth-of-type(3) .services-head-w3ls{
-  background:#4ddba6;
+ 
 }
 .service-grids:nth-of-type(4) .services-head-w3ls{
-  background:midnightblue;
+  
 }
 .services-text {
   padding: 15px;
-  -webkit-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
+  background-color:white;
+  /*-webkit-box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
   -moz-box-shadow:5px 10px 10px 0px rgba(216, 216, 216, 0.78);
-  box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);
+  box-shadow: 5px 10px 10px 0px rgba(216, 216, 216, 0.78);*/
 }
 .services-head-w3ls span {
   color: #fff;
@@ -844,10 +847,8 @@ p.about-p {
 }
 .services-text {
   padding: 20px;
-  background:rgb(245, 245, 245);
 }
 .services-text h4 {
-  color: #000;
   font-size: 20px;
 	text-align:center;
   text-transform: capitalize;
@@ -890,7 +891,7 @@ text-align: left;
   font-size: 20px;
   margin-top: 15px;
   font-weight: 600;
-  color: #0041C2;
+  color: cadetblue;
   text-transform: uppercase;
 }
 .stats-grid {
@@ -901,7 +902,7 @@ text-align: left;
   background: #fff;
   border-radius: 10px;
   padding: 10px 20px;
-  color: midnightblue;
+  color: cadetblue;
 }
 .numscroller {
   font-size: 40px;
